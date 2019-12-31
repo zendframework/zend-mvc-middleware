@@ -1,5 +1,9 @@
 # zend-mvc-middleware
 
+> ## Repository abandoned 2019-12-31
+>
+> This repository has moved to laminas/laminas-mvc-middleware.
+
 [![Build Status](https://secure.travis-ci.org/zendframework/zend-mvc-middleware.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-mvc-middleware)
 [![Coverage Status](https://coveralls.io/repos/github/zendframework/zend-mvc-middleware/badge.svg?branch=master)](https://coveralls.io/github/zendframework/zend-mvc-middleware?branch=master)
 
